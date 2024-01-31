@@ -1,0 +1,67 @@
+*{
+    background-color: #F2EDD7FF;
+    color: #F2EDD7FF;
+    font-size: 150px;
+}
+
+.mainDiv{
+    margin-top: 150px;
+    text-shadow:3px 5px 9px #2c2a2a;
+    background-color: transparent;
+    backdrop-filter: blur(3px);
+}
+
+.mainDiv button{
+    border: 0px;
+    background-color: transparent;
+}
+.time{
+    background-color: transparent;
+}
+
+.time button{
+    background-color: #755139FF;
+    color: #F2EDD7FF;
+    height: 200px;
+    width: 300px;
+    font-size: 100px;
+    font-weight: 700;
+    border-radius: 50px;
+    text-shadow:3px 5px 9px #2c2a2a;
+    text-decoration: overline 3px;
+}
+
+.ampm{
+    margin-left: 30px;
+}
+
+.formatChangediv{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    padding-top: 50px;
+    background-color: transparent;
+    
+}
+
+.formatButton{
+    width: 550px;
+    height: 90px;
+    font-size: 50px;
+    font-weight: 700;
+    align-items: center;
+    justify-content: space-evenly;
+    display: flex;
+    border-radius: 10px;
+    padding: 0px;
+    color: black;
+}
+
+.changeButton{
+    height: 40px;
+    width: 150px;
+    font-size: 20px;
+    border-radius: 30px;
+    cursor: pointer;
+    color: black;
+}
