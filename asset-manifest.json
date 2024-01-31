@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/digitalclock/static/css/main.26021387.css",
+    "main.js": "/digitalclock/static/js/main.fda695c0.js",
+    "static/js/787.aa9e66d1.chunk.js": "/digitalclock/static/js/787.aa9e66d1.chunk.js",
+    "static/media/LOGO-Transparent.png": "/digitalclock/static/media/LOGO-Transparent.25508c5ac3c60262b9a8.png",
+    "index.html": "/digitalclock/index.html",
+    "main.26021387.css.map": "/digitalclock/static/css/main.26021387.css.map",
+    "main.fda695c0.js.map": "/digitalclock/static/js/main.fda695c0.js.map",
+    "787.aa9e66d1.chunk.js.map": "/digitalclock/static/js/787.aa9e66d1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26021387.css",
+    "static/js/main.fda695c0.js"
+  ]
+}
